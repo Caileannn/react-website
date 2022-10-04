@@ -1,0 +1,41 @@
+.flex-image-ei{
+    display: flex;
+    width:100%;
+    justify-content: space-around;
+    margin-bottom: 5vh;
+    margin-top: 2vh;
+    flex-wrap: wrap;
+
+}
+
+.flex-image-ei img{
+    width:300px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 6px;
+    box-shadow: 5px 10px 30px black;
+    margin-bottom: 4vh;
+}
+
+.image-list-ei{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10vh;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-list-ei img{
+    height: 500px;
+    width: auto;
+}
+
+.thesis p{
+    background-color: #2631f5;
+    color: #fafefa;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 6px;
+}
+

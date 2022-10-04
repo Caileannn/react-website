@@ -1,0 +1,9 @@
+.blog-content{
+    display: flex;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}

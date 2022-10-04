@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  
+}
+
+
+html {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+body {
+  margin: 0;
+  color: #2631f5;
+  background-color: #fafefa;
+  text-align: center;
+  font-style: italic;
+  font-weight: 500;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+ 
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+

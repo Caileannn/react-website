@@ -1,0 +1,12 @@
+.other-main-content{
+    display: flex;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 10vh;
+    flex-direction: column;
+    gap: 100px;
+    margin-bottom: 10vh;
+    
+}
+
+

@@ -1,0 +1,59 @@
+.blog-content-main{
+    display: block;
+    margin-bottom: 5vh;
+}
+
+.blog-content-title{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+    font-size: 1.2rem;
+    font-style: normal;
+    justify-content: space-between;
+    align-items:baseline;
+    gap: 10px;
+
+}
+
+.blog-content-title hr{
+    width: 80%;
+}
+
+.blog-content-body{
+    display: flex;
+
+    font-style: normal;
+
+    color: black;
+    text-align: left;
+    gap: 10px;
+    font-size: 1.0rem;
+    font-weight: 400;
+    justify-content: center;
+
+}
+
+.blog-content-body h2{
+    color:#2631f5;
+    margin-bottom: 1vh;
+}
+
+.bc-no{
+    color:#fafefa;
+    background-color: #f52626;
+    padding: 2px;
+}
+
+.bc-date{
+    padding-top: 10px;
+}
+
+.bb-text{
+    width: 70%;
+}
+
+.bb-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
