@@ -21,7 +21,7 @@ function OtherContent(props) {
           </div>
         </div>
         <div className="oc-image">
-          <a href={ow_url}><img src={ow_image} alt="o-machine" target="_blank" rel="noreferrer"></img></a>
+          <a href={ow_url}><img src={ow_image} alt={ow_title} target="_blank" rel="noreferrer"></img></a>
         </div>
       </div>
       <hr className="other-divider"></hr>
