@@ -8,9 +8,9 @@ function Ruhi() {
 
     
     let oldDate = new Date()
-    let day = oldDate.setDate(6);
-    let month = oldDate.setMonth(9);
-    let year = oldDate.setFullYear(2018);
+    oldDate.setDate(6);
+    oldDate.setMonth(9);
+    oldDate.setFullYear(2018);
 
 
     const date = oldDate
