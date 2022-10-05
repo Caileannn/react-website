@@ -1,0 +1,72 @@
+.ruhi-txt{
+    z-index: 100;
+    position:absolute;
+    top:25vh;
+    left:30vw;
+    background-color: rgb(138, 43, 226, 0.8);
+    border-radius: 6px;
+    width: 40vw;
+    height: 60vh;
+    color: white;
+    font-weight: 500;
+    font-style: normal;
+    padding: 10px;
+    box-shadow: 5px 10px 30px rgba(109, 34, 179, 0.8);
+}
+
+.ruhi-main{
+    z-index: -1;
+    overflow: hidden;
+    height:50%;
+}
+
+.ruhi-sentence{
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 2vh;
+}
+.ruhi-ending{
+    margin-bottom: 2vh;
+}
+
+
+@media only screen and (max-width: 900px) {
+    .ruhi-txt{
+        z-index: 100;
+        position:absolute;
+        top:26vh;
+        left:18vw;
+        width: 66vw;
+        height: 60vh;
+        color: white;
+        font-weight: 500;
+        font-style: normal;
+        padding: 10px;
+    }
+    .ruhi-sentence{
+        text-align: left;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .ruhi-txt{
+        z-index: 100;
+        position:absolute;
+        top:26vh;
+        left:10vw;
+        width: 80vw;
+        height: 60vh;
+        color: white;
+        font-weight: 500;
+        font-style: normal;
+        padding: 10px;
+    }
+    .ruhi-sentence{
+        text-align: left;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
