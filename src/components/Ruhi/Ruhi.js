@@ -84,6 +84,7 @@ function Ruhi() {
           d3AlphaDecay={0.002}
           d3VelocityDecay={0.5}
           enableZoomInteraction={false}
+          enableNavigationControls={false}
           nodeCanvasObject={(node, ctx, globalScale) => {
             const label = node.id;
             const fontSize = 80/globalScale;
