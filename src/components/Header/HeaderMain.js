@@ -5,6 +5,15 @@ function HeaderMain() {
   return (
     <div className="header-main-container">
       <div>
+        <NavLink to="/about" style={({ isActive }) => ({
+            color: isActive ? "#fff" : "rgb(46, 46, 46)",
+            background: isActive ? "#f52626" : "#fafefa",
+            padding: '4px',
+            borderRadius: '12px',
+            boxShadow: isActive ? '0px 0px 1px black' : '0px 0px 0px white'
+          })}>about</NavLink>
+      </div>
+      <div>
         <NavLink
           to="/works"
           style={({ isActive }) => ({
@@ -17,15 +26,6 @@ function HeaderMain() {
         >
           works
         </NavLink>
-      </div>
-      <div>
-        <NavLink to="/about" style={({ isActive }) => ({
-            color: isActive ? "#fff" : "rgb(46, 46, 46)",
-            background: isActive ? "#f52626" : "#fafefa",
-            padding: '4px',
-            borderRadius: '12px',
-            boxShadow: isActive ? '0px 0px 1px black' : '0px 0px 0px white'
-          })}>about</NavLink>
       </div>
       <div>
         <NavLink to="/other-projects" style={({ isActive }) => ({
