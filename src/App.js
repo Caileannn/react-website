@@ -12,7 +12,6 @@ function App() {
     <>
       
       <Routes>
-          
           <Route path="/ruhi" element={<Ruhi />} /> 
           <Route path="/*" element={<Home />} /> 
       </Routes>

@@ -1,5 +1,6 @@
 import React from "react";
 import "./EPCH.css";
+import { Link } from 'react-router-dom';
 
 function EPCH() {
   return (
@@ -43,7 +44,7 @@ function EPCH() {
           <div className="flex-image-epch">
             <img src="/Images/EPCH/01.png" alt="EPCH"></img>
             <img src="/Images/EPCH/02.png" alt="EPCH"></img>
-            <img src="/Images/EPCH/03.png" alt="EPCH"></img>
+            <Link to="/ruhi"><img src="/Images/EPCH/03.png" alt="EPCH"></img></Link>
           </div>
         </div>
       </div>
