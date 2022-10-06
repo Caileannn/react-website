@@ -66,7 +66,7 @@ function Ruhi() {
   return (
     <>
     <div className='ruhi-txt'>
-        <p>Ruhi 💖</p>
+        <p className='ruhi-title'>Ruhi 💖</p>
         <p className='ruhi-sentence'>A place on the ☁ dedicated to us 💖</p>
         <p className='ruhi-sentence'>I can't believe it has been 4 years.. it has absolutely flown by 🛫 and I've enjoyed every moment! Thank you for everything, I wouldn't be where I am without you, and I wouldn't want to be here without you. You're so special to me, and I hope thats shows more and more as the years go by. I can't wait to finally move in with you, and start a new chapter together 📘. </p>
         <p className='ruhi-sentence'>I hope you like the page, it took me longer than I would have liked to figure these flying emojis out, but I think it was worth it. I finally got to use my skills to make you something special, which is only a URL 🔗 away.</p>
