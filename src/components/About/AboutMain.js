@@ -42,6 +42,7 @@ function AboutMain() {
         </div>
         <hr></hr>
         <p>Cailean Finn is a creative technologist and new media artist based in Waterford, Ireland. In his work, Cailean explores digital systems, and their underlying structure. In this approach, he attempts to reveal and provide insight into how contemporary technologies that shape our environment function. Currently, Cailean’s practice is focused around exploring artificial intelligence, machine learning and computer vision algorithms. Through these tools, he hopes to reflect on the relationship we have formed with machines, and how it can be (re)defined moving forward. In doing so, Cailean searches for new modalities of collaboration with machines, which is underpinned by the evolutionary processes we share.</p>
+      
       </div>
       <div className="prof-links">
             <div className="prof-links__IG">
