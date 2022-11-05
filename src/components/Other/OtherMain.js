@@ -5,12 +5,20 @@ import OtherContent from "./OtherContent";
 function OtherMain() {
   const otherList = [
     {
+      ow_title: "Undefined Panorama Web App",
+      ow_by: "Yang Ah Ham",
+      ow_year: 2022,
+      ow_role: "Web Devloper",
+      ow_image: "up_img.png",
+      ow_url: "http://undefinedpanorama.net/"
+    },
+    {
       ow_title: "AI x Body Guide",
       ow_by: "AIxDesign",
       ow_year: 2022,
       ow_role: "Author",
       ow_image: "openpose-1.jpg",
-      ow_url: "https://www.aixdesign.co/"
+      ow_url: "https://nadiapiet.notion.site/AIxDesign-s-Guide-to-AI-x-Body-26ea1c78f253425a92f9269895ea6f46"
     },
     {
       ow_title: "Sorry, please say it again",

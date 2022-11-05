@@ -3,7 +3,6 @@ import { Route, Routes} from 'react-router-dom';
 import Ruhi from './components/Ruhi/Ruhi';
 import Home from './home/Home';
 
-import * as MicroStacks from '@micro-stacks/react';
 
 
 
