@@ -8,7 +8,7 @@ function OtherMain() {
       ow_title: "Undefined Panorama Web App",
       ow_by: "Yang Ah Ham",
       ow_year: 2022,
-      ow_role: "Web Devloper",
+      ow_role: "Web Developer",
       ow_image: "up_img.png",
       ow_url: "http://undefinedpanorama.net/"
     },
