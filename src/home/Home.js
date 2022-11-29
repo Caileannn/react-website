@@ -12,6 +12,7 @@ import EPCH from "../components/Works/EPCH/EPCH";
 import Comhair from "../components/Works/Comhair/Comhair";
 import OP from "../components/Works/OP/OP";
 import MBank from "../components/Works/MBank/MBank";
+import LM from "../components/Works/LatentMirror/LM"
 
 function Home() {
   return (
@@ -29,6 +30,7 @@ function Home() {
           <Route path="/works/Comhair" element={<Comhair />} />
           <Route path="/works/online-persona" element={<OP />} />
           <Route path="/works/memory-bank" element={<MBank />} />
+          <Route path="/works/latent-mirror" element={<LM />} />
       </Routes>
     </>
   )

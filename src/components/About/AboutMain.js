@@ -49,10 +49,12 @@ function AboutMain() {
                 <p>(IG)&nbsp;&nbsp;&nbsp;&nbsp;→ <SocialIcon bgColor="#fafefa" fgColor="black" target="_blank" rel="noreferrer" url={about_information[0].ig_link}/></p>
                 
             </div>
+            {/* 
             <div className="prof-links__CV">
                 <p>(CV) &nbsp;&nbsp;&nbsp;&#x21a3; <span className="doc-emoji"><a href="google.com">📄</a></span></p>
                 <p className="cv-update">*updated {about_information[0].updated_date}*</p>
             </div>
+            */}
             <div className="prof-links__EMAIL">
                 <p>(E-MAIL) &#x21b7; &nbsp;&#x21b7;&nbsp; &#x21b7;</p>
                 <BootstrapTooltip title="Copy to Clipboard!" arrow>

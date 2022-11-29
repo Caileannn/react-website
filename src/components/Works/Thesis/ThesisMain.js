@@ -17,6 +17,7 @@ export default function ThesisMain() {
             <p>Art and Technology MA @ University of Limeirck</p>
             <p>These three studies have been shaped by the experimental processes, techniques, and philosophies of the pioneering artists working with video. The artists in question, specifically the works of Steina and Woody Vasulka, were driven by their yearning to understand the electronic signal and to formulate an electronic language. The work, in its entirety, is an investigation of the unique set of “codes” embedded within the language of the video signal, consequentially, recognising the electronic image as an object of time, energy, and its programmable building element – the waveform.</p>
             <div className='thesis'><a href="/Documents/Cailean Finn - Thesis - The Electronic Image_An Object of Time and Energy.pdf" target="_blank" rel="noreferrer"><p>Thesis Paper</p></a></div>
+            <p className="showcased-text"><span className="showcased-arrow">→</span> <span className="showcased-year">(2022)</span> <a className="showcased-link" rel="noreferrer" target="_blank" href="https://ormstonhouse.com/programme/the-limerick-show/">The Limerick Show</a>, Ormston House. Limerick, Ireland</p>
           </div>
         </div>
         <div className="content-images">

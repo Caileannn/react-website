@@ -99,6 +99,26 @@ h4{
     object-fit: contain;
 }
 
+p.showcased-text{
+    font-style: italic;
+    font-weight: 400;
+    color: black;
+}
+
+a.showcased-link{
+    cursor: pointer;
+    font-style: normal;
+    color: black;
+}
+
+span.showcased-arrow{
+    color: #2631f5;
+}
+
+span.showcased-year{
+    color: #f52626;
+    font-size: 1.1rem;
+}
 @media only screen and (max-width: 1700px){
     .content-container{
         flex-direction: column;

@@ -1,0 +1,20 @@
+a.evan-link{
+    cursor: pointer;
+    color: #f52626;
+}
+
+.flex-image-lm {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-bottom: 5vh;
+    margin-top: 2vh;
+    flex-wrap: wrap;
+
+}
+
+.flex-image-lm img{
+    width: 40%;
+    height: auto;
+    object-fit: scale-down;
+}

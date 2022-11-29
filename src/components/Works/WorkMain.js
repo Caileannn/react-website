@@ -7,6 +7,13 @@ function WorkMain(){
 
     const workList = [
         {
+            w_title: "Latent Mirror",
+            w_year: 2022,
+            w_emoji: "🖼️",
+            w_img: "/Covers/LMCover.gif",
+            w_link: "/works/latent-mirror"
+        },
+        {
             w_title: "(O)MACHINE",
             w_year: 2022,
             w_emoji: "🧠",
