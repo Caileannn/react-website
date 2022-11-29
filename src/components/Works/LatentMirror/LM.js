@@ -27,10 +27,11 @@ function LM() {
       <div className="content-container">
       
       <div className='flex-image-lm'>
-      <img src="/Images/LM/FDLM.gif" alt="om-still"></img>
-      <img src="/Images/LM/LM_07.png" alt="om-still"></img>
-      <img src="/Images/LM/LM_11.png" alt="om-still"></img>
-      <img src="/Images/LM/LM_15.png" alt="om-still"></img>
+        
+        <img src="/Images/LM/FDLM.gif" alt="om-still"></img>
+        <img src="/Images/LM/LM_07.png" alt="om-still"></img>
+        <img src="/Images/LM/LM_11.png" alt="om-still"></img>
+        <img src="/Images/LM/LM_15.png" alt="om-still"></img>
 
       </div>
       </div>

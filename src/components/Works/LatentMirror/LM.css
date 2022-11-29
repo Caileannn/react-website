@@ -10,11 +10,23 @@ a.evan-link{
     margin-bottom: 5vh;
     margin-top: 2vh;
     flex-wrap: wrap;
+    margin-left: 10vw;
+    margin-right: 10vw;
 
 }
 
 .flex-image-lm img{
-    width: 40%;
+    width: 45%;
     height: auto;
     object-fit: scale-down;
+}
+
+@media only screen and (max-width: 1700px){
+
+    .flex-image-lm img{
+        width: 100%;
+        height: auto;
+        object-fit: scale-down;
+    }
+
 }
