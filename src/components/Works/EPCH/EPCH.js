@@ -26,13 +26,7 @@ function EPCH() {
                 intelligence.
               </p>
               <p>
-                The abstract compositions were algorithmically generated using
-                the latest machine learning technologies, specifically CLIP, GAN
-                and Pixel Diffusion models. Through a process of Neurography,
-                which is a term referred to when working with neural networks -
-                complex machine learning algorithms, these images were generated
-                based upon a vast dataset of images and guided through the users
-                input.
+              The abstract compositions were algorithmically generated using the latest machine learning technologies, specifically CLIP, GAN and Pixel Diffusion models. Through a process of Neurography, which is a term referred to when working with neural networks - complex machine learning algorithms, these images were generated based upon a vast dataset of images and guided through the user's input.
               </p>
             </div>
           </div>
